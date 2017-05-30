@@ -1,0 +1,9 @@
+{
+  "name": "adriano",
+  "version": "0.0.0",
+  "description": "Adriano",
+  "main": "server.js",
+  "author": {
+    "name": "rafal"
+  }
+}
